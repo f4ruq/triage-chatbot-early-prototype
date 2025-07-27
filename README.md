@@ -10,4 +10,4 @@ Estimate urgency levels to support healthcare professionals.
 
 It's intended as part of a larger hospital triage system but can function independently for early testing and development.
 
-This is a preliminary prototype.
+This is a preliminary prototype. I'm not even sure it will work properly.
