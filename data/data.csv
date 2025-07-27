@@ -1,0 +1,141 @@
+text,label
+"Patient presents with high blood pressure, severe headache.",0
+"Patient presents with fever, cough, sore throat.",1
+"Patient presents with severe chest pain, shortness of breath.",2
+"Patient presents with sudden weakness, blurred vision.",3
+"Patient presents with difficulty breathing, persistent cough.",4
+"Patient presents with rapid heartbeat, dizziness.",5
+"Patient presents with nausea, severe abdominal pain.",6
+"Patient presents with frequent urination, excessive thirst.",7
+"Patient presents with chronic pain.",8
+"Patient presents with severe allergic reaction, swelling.",9
+"Patient presents with dizziness, blurred vision.",0
+"Patient presents with fever, runny nose, body aches.",1
+"Patient presents with chest pain, cold sweat.",2
+"Patient presents with loss of balance, speech difficulty.",3
+"Patient presents with fatigue, chest pain.",4
+"Patient presents with irregular pulse, dizziness.",5
+"Patient presents with vomiting, loss of appetite.",6
+"Patient presents with blurred vision, excessive thirst.",7
+"Patient presents with persistent fatigue, abnormal bleeding.",8
+"Patient presents with difficulty breathing, hives.",9
+"Patient presents with high blood pressure, blurred vision.",0
+"Patient presents with fever, cough, body aches.",1
+"Patient presents with severe chest pain, shortness of breath.",2
+"Patient presents with speech difficulty, loss of balance.",3
+"Patient presents with difficulty breathing, chest pain.",4
+"Patient presents with irregular pulse, dizziness.",5
+"Patient presents with nausea, severe abdominal pain.",6
+"Patient presents with excessive thirst, frequent urination.",7
+"Patient presents with persistent fatigue, chronic pain.",8
+"Patient presents with severe allergic reaction, swelling.",9
+"Patient presents with dizziness, blurred vision.",0
+"Patient presents with fever, runny nose, sore throat.",1
+"Patient presents with cold sweat, left arm pain.",2
+"Patient presents with sudden weakness, blurred vision.",3
+"Patient presents with fatigue, chest pain.",4
+"Patient presents with rapid heartbeat, dizziness.",5
+"Patient presents with vomiting, loss of appetite.",6
+"Patient presents with blurred vision, excessive thirst.",7
+"Patient presents with abnormal bleeding, weight loss.",8
+"Patient presents with difficulty breathing, hives.",9
+"Patient presents with high blood pressure, severe headache.",0
+"Patient presents with fever, cough, sore throat.",1
+"Patient presents with severe chest pain, shortness of breath.",2
+"Patient presents with loss of balance, speech difficulty.",3
+"Patient presents with difficulty breathing, persistent cough.",4
+"Patient presents with rapid heartbeat, irregular pulse.",5
+"Patient presents with nausea, vomiting, abdominal pain.",6
+"Patient presents with frequent urination, blurred vision.",7
+"Patient presents with unexplained weight loss, fatigue.",8
+"Patient presents with swelling, difficulty breathing.",9
+"Patient presents with elevated blood pressure, mild headache.",0  
+"Patient presents with chills, fever, nasal congestion.",1  
+"Patient presents with intense chest pressure, difficulty breathing.",2  
+"Patient presents with numbness in one arm, slurred speech.",3  
+"Patient presents with persistent cough, fever.",4  
+"Patient presents with irregular heartbeat, lightheadedness.",5  
+"Patient presents with stomach cramps, nausea.",6  
+"Patient presents with excessive hunger, dry mouth.",7  
+"Patient presents with unexplained fatigue, night sweats.",8  
+"Patient presents with facial swelling, difficulty swallowing.",9  
+"Patient presents with dizziness, sensitivity to light.",0  
+"Patient presents with muscle pain, fever, sore throat.",1  
+"Patient presents with upper back pain, nausea.",2  
+"Patient presents with sudden confusion, vision problems.",3  
+"Patient presents with shallow breathing, chest tightness.",4  
+"Patient presents with fainting, uneven heartbeat.",5  
+"Patient presents with bloating, stomach pain.",6  
+"Patient presents with tingling hands, constant thirst.",7  
+"Patient presents with fatigue, abnormal weight changes.",8  
+"Patient presents with itchy skin, swelling in throat.",9  
+"Patient presents with sudden spike in blood pressure, dizziness.",0  
+"Patient presents with fever, chills, muscle weakness.",1  
+"Patient presents with left arm pain, cold sweats.",2  
+"Patient presents with drooping face, trouble speaking.",3  
+"Patient presents with wheezing, shortness of breath.",4  
+"Patient presents with palpitations, chest discomfort.",5  
+"Patient presents with stomach pain, nausea after eating.",6  
+"Patient presents with frequent urination, blurred vision.",7  
+"Patient presents with ongoing fatigue, pain in bones.",8  
+"Patient presents with swelling of lips, difficulty breathing.",9  
+"Patient presents with lightheadedness, sharp headache.",0  
+"Patient presents with fatigue, fever, coughing fits.",1  
+"Patient presents with stabbing chest pain, rapid breathing.",2  
+"Patient presents with trouble moving one side of body.",3  
+"Patient presents with painful breathing, persistent fever.",4  
+"Patient presents with fluttering in chest, dizziness.",5  
+"Patient presents with indigestion, stomach tenderness.",6  
+"Patient presents with weight loss, increased thirst.",7  
+"Patient presents with chronic pain, night sweats.",8  
+"Patient presents with skin rash, trouble breathing.",9  
+"Patient presents with sudden blood pressure spike, ear ringing.",0  
+"Patient presents with fever, chills, persistent headache.",1  
+"Patient presents with intense chest discomfort, radiating pain.",2  
+"Patient presents with vision loss in one eye, arm numbness.",3  
+"Patient presents with chronic cough, trouble breathing at night.",4  
+"Patient presents with fluttering heartbeat, blacking out.",5  
+"Patient presents with stomach burning, acid reflux.",6  
+"Patient presents with excessive night urination, fatigue.",7  
+"Patient presents with unexplained bruising, extreme exhaustion.",8  
+"Patient presents with swollen lips, difficulty swallowing.",9  
+"Patient presents with pounding headache, sensitivity to noise.",0  
+"Patient presents with sore muscles, fever, dry cough.",1  
+"Patient presents with pain spreading from chest to jaw.",2  
+"Patient presents with double vision, trouble walking.",3  
+"Patient presents with wheezing, fever, tight chest.",4  
+"Patient presents with skipped heartbeats, dizzy spells.",5  
+"Patient presents with stomach bloating, nausea after meals.",6  
+"Patient presents with blurred vision, frequent infections.",7  
+"Patient presents with weight loss, recurring fevers.",8  
+"Patient presents with rash, throat swelling, dizziness.",9  
+"Patient presents with headache, neck stiffness, high blood pressure.",0  
+"Patient presents with body aches, high fever, fatigue.",1  
+"Patient presents with shortness of breath, chest pain at rest.",2  
+"Patient presents with weakness on one side, facial drooping.",3  
+"Patient presents with trouble breathing, deep cough, fever.",4  
+"Patient presents with lightheadedness, irregular pulse.",5  
+"Patient presents with burning stomach pain, vomiting.",6  
+"Patient presents with numb feet, excessive thirst.",7  
+"Patient presents with persistent weight loss, swollen glands.",8  
+"Patient presents with itchy skin, rapid swelling of face.",9  
+"Patient presents with sharp head pain, bloodshot eyes.",0  
+"Patient presents with sneezing, fever, swollen lymph nodes.",1  
+"Patient presents with aching chest, nausea, dizziness.",2  
+"Patient presents with inability to speak, loss of coordination.",3  
+"Patient presents with constant coughing, greenish mucus.",4  
+"Patient presents with rapid heartbeat, fainting spells.",5  
+"Patient presents with gnawing stomach pain, nausea at night.",6  
+"Patient presents with extreme thirst, slow healing wounds.",7  
+"Patient presents with weakness, excessive night sweats.",8  
+"Patient presents with difficulty breathing, hives spreading.",9  
+"Patient presents with headache, facial redness, nausea.",0  
+"Patient presents with fever, shivering, dry throat.",1  
+"Patient presents with sudden pressure in chest, arm discomfort.",2  
+"Patient presents with one-sided numbness, confusion.",3  
+"Patient presents with breathlessness, deep cough, night sweats.",4  
+"Patient presents with heart fluttering, dizziness when standing.",5  
+"Patient presents with stomach cramps, nausea, dehydration.",6  
+"Patient presents with tingling in fingers, increased hunger.",7  
+"Patient presents with long-term fatigue, severe pain episodes.",8  
+"Patient presents with swelling in throat, trouble speaking.",9  
