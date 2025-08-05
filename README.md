@@ -4,6 +4,7 @@ A BERT-based intelligent chatbot to assist with preliminary disease prediction b
 
 > "I have chest pain and shortness of breath."
 
+![Screenshot](screenshot.png)
 ---
 
 ## Features
